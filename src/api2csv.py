@@ -14,10 +14,10 @@ import osmapi
 default = ''
 now = time.strftime("%Y-%m-%d %H:%M %Z")
 # comment out next line when live
-api = osmapi.OsmApi(api="api06.dev.openstreetmap.org")
+# api = osmapi.OsmApi(api="api06.dev.openstreetmap.org")
 
 # uncomment the next line when live
-#api = osmapi.OsmApi()
+api = osmapi.OsmApi()
 
 cfile = open('picks.csv','a')
 
