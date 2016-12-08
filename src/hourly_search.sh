@@ -1,6 +1,6 @@
 #!/bin/bash
 
-QUALITY=/home/clifford/Development/FirstEditImprovment/quality
+QUALITY=/home/clifford/Development/FirstEditImprovement/quality
 ME=glassman
 
 

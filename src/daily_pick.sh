@@ -2,7 +2,7 @@
 
 N=5
 
-QUALITY=/home/clifford/Development/FirstEditImprovment
+QUALITY=/home/clifford/Development/FirstEditImprovement
 cd ${QUALITY}/quality
 
 if test -e picks.csv;then
